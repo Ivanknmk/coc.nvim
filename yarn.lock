@@ -17,10 +17,10 @@
     esutils "^2.0.2"
     js-tokens "^4.0.0"
 
-"@chemzqm/neovim@4.3.44":
-  version "4.3.44"
-  resolved "https://registry.yarnpkg.com/@chemzqm/neovim/-/neovim-4.3.44.tgz#67739b0f5a6bdde5e30a7a489b28fb5316472cae"
-  integrity sha512-DNSOuppwsT9z5a1TJG6RbDK/hnwfxhca7BRVjnAW0A1YiGCSdjIf/+g06RLHd1JJZisSj5uQSPGrnO8uVEg4Xw==
+"@chemzqm/neovim@4.3.47":
+  version "4.3.47"
+  resolved "https://registry.yarnpkg.com/@chemzqm/neovim/-/neovim-4.3.47.tgz#81c0d981b574ccd25d8fc4b60d2eb7b5d0121726"
+  integrity sha512-K3tHdwlrVn4XfJB/Er5AGqi8qA1MY5XFpO28JAQbvJTTfnYxpgcZrrDbzd9QoGate255kcacinXWuBNBeMAd5Q==
   dependencies:
     msgpack-lite "^0.1.26"
     traverse "^0.6.6"
